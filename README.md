@@ -1,7 +1,7 @@
 ## Welcome to Magazine e-Zines
 
 ###### Conferences Presentations
->> H2HC <<
+>> H2HC
 
   [2004](https://github.com/Achilles0x01/Mag-e-Zines/tree/master/H2HC/Presentations/H2HC-2004)
   [2005](https://github.com/Achilles0x01/Mag-e-Zines/tree/master/H2HC/Presentations/H2HC-2005)
